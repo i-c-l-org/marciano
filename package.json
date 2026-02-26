@@ -1,0 +1,46 @@
+{
+  "name": "dev-toolkit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Developer toolkit with pre-built skills, reference guides, utility scripts, and curated plugins. Clone, install, and use.",
+  "author": "Italo C Lopes",
+  "license": "MIT-0",
+  "engines": {
+    "node": ">=24.12.0"
+  },
+  "scripts": {
+    "start": "prometheus",
+    "diagnosticar": "prometheus diagnosticar",
+    "diagnosticar:json": "prometheus diagnosticar --json",
+    "formatar": "prometheus formatar --write",
+    "reestruturar": "prometheus reestruturar",
+    "podar": "prometheus podar",
+    "fix-types": "prometheus fix-types",
+    "name": "prometheus names",
+    "rename": "prometheus renames",
+    "scan": "prometheus licencas scan",
+    "scan:root": "prometheus licencas scan --root .",
+    "notices": "prometheus licencas notices generate",
+    "adn": "prometheus licencas disclaimer add",
+    "verify": "prometheus licencas disclaimer verify",
+    "guardian": "prometheus guardian",
+    "pack": "bash scripts/pack.sh",
+    "unpack": "bash scripts/unpack.sh"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE*",
+    "THIRD-PARTY-NOTICES.txt",
+    "scripts/check-node-version.js"
+  ],
+  "dependencies": {
+    "micromatch": "^4.0.8",
+    "minimatch": "^10.2.3",
+    "prometheus": "file:prometheus-0.4.0.tgz"
+  },
+  "overrides": {
+    "lodash": "4.17.23",
+    "lodash-es": "4.17.23"
+  }
+}
