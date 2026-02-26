@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Esclarecimento sobre o Uso do Claude Code e LLMs
 
 ## Propósito do Projeto
@@ -19,3 +29,4 @@ Gostaríamos de esclarecer que:
 ## Contato e Suporte
 
 Qualquer apontamento sobre problemas de licenciamento, solicitações de remoção ou dúvidas sobre uso apropriado destas _skills_, por favor, entrem em contato conosco através do e-mail oficial: **ossmoralus@gmail.com**. Acessaremos a demanda de imediato.
+
