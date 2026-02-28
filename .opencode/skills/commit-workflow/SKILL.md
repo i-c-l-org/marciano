@@ -1,3 +1,12 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecossistema Agents/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
 ---
 name: commit-workflow
 description: Conventional commits e git workflow para mensagens consistentes e trunk-based development
@@ -58,7 +67,6 @@ fix: resolve race condition in cache
 ## Workflow
 
 ### 1. Antes de Commitar
-
 ```bash
 # Verificar status
 git status
@@ -71,7 +79,6 @@ git diff --cached
 ```
 
 ### 2. Stage Seletivo
-
 ```bash
 # Stage por arquivo
 git add arquivo1 arquivo2
@@ -84,13 +91,11 @@ git add src/
 ```
 
 ### 3. Conventional Commit
-
 ```bash
 git commit -m "feat(api): add user endpoint"
 ```
 
 ### 4. Verificar Antes de Push
-
 - [ ] Tests passando
 - [ ] Lint passando
 - [ ] Mensagem follows conventional commits
