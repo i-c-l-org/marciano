@@ -67,6 +67,7 @@ fix: resolve race condition in cache
 ## Workflow
 
 ### 1. Antes de Commitar
+
 ```bash
 # Verificar status
 git status
@@ -79,6 +80,7 @@ git diff --cached
 ```
 
 ### 2. Stage Seletivo
+
 ```bash
 # Stage por arquivo
 git add arquivo1 arquivo2
@@ -91,11 +93,13 @@ git add src/
 ```
 
 ### 3. Conventional Commit
+
 ```bash
 git commit -m "feat(api): add user endpoint"
 ```
 
 ### 4. Verificar Antes de Push
+
 - [ ] Tests passando
 - [ ] Lint passando
 - [ ] Mensagem follows conventional commits

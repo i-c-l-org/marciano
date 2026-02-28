@@ -24,6 +24,7 @@ Skill para auditoria de segurança básica em código.
 ## Checklist de Segurança
 
 ### 1. Injection
+
 - [ ] Sem SQL injection (use parameterized queries)
 - [ ] Sem Command injection (evite shell=True, exec, system)
 - [ ] Sem XSS (sanitize HTML input/output)
@@ -31,12 +32,14 @@ Skill para auditoria de segurança básica em código.
 - [ ] Sem XXE (XML External Entity)
 
 ### 2. Autenticação e Autorização
+
 - [ ] Senhas hashadas (bcrypt, argon2, not MD5/SHA1)
 - [ ] Tokens seguros (JWT com secret forte, exp)
 - [ ] Session management seguro
 - [ ] Verificação de permissão em endpoints
 
 ### 3. Dados Sensíveis
+
 - [ ] Sem secrets no código (.env, config files)
 - [ ] Sem credenciais hardcoded
 - [ ] Dados sensíveis criptografados em trânsito (HTTPS)
@@ -44,23 +47,27 @@ Skill para auditoria de segurança básica em código.
 - [ ] Logs não expõem dados sensíveis
 
 ### 4. Input Validation
+
 - [ ] Todos os inputs validados
 - [ ] Tipos verificados
 - [ ] Tamanho limites respeitados
 - [ ] Sanitização apropriada
 
 ### 5. Dependencies
+
 - [ ] Dependencies atualizadas
 - [ ] Sem vulnerabilidades conhecidas (npm audit, snyk)
 - [ ] License apropriada
 
 ### 6. Configuração
+
 - [ ] CORS configurado corretamente
 - [ ] Headers de segurança (CSP, HSTS, X-Frame-Options)
 - [ ] Error messages não expõem stack traces
 - [ ] Modo debug desabilitado em produção
 
 ### 7. Práticas Seguras
+
 - [ ] Sem uso de eval()
 - [ ] Sem uso de innerHTML não sanitizado
 - [ ] Path traversal verificado

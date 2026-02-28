@@ -24,6 +24,7 @@ Skill para inicializar novos projetos com estrutura padronizada e tooling config
 ## Setup Node/TypeScript
 
 ### 1. Inicialização
+
 ```bash
 # Novo projeto
 npm init -y
@@ -33,6 +34,7 @@ yarn init -y
 ```
 
 ### 2. TypeScript
+
 ```bash
 # Install dev dependency
 npm install -D typescript @types/node tsx
@@ -108,21 +110,25 @@ project/
 ## Ferramentas Recomendadas
 
 ### Linting
+
 ```bash
 npm install -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
 ```
 
 ### Formatting
+
 ```bash
 npm install -D prettier
 ```
 
 ### Testing
+
 ```bash
 npm install -D vitest @testing-library/react jsdom
 ```
 
 ### Git Hooks
+
 ```bash
 npm install -D husky lint-staged
 npx husky init
@@ -131,18 +137,21 @@ npx husky init
 ## Checklist de Setup
 
 ### Essencial
+
 - [ ] package.json com name, version, type: module
 - [ ] tsconfig.json configurado
 - [ ] .gitignore (node_modules, dist, .env)
 - [ ] Scripts de dev/build/test
 
 ### Qualidade
+
 - [ ] ESLint configurado
 - [ ] Prettier configurado
 - [ ] Husky com pre-commit hook
 - [ ] Tests configurados (Vitest)
 
 ### Git
+
 - [ ] git init
 - [ ] Initial commit
 - [ ] .gitignore com entries corretas
@@ -150,6 +159,7 @@ npx husky init
 ## Variáveis de Ambiente
 
 ### .env.example
+
 ```
 # API
 API_KEY=
@@ -163,6 +173,7 @@ JWT_SECRET=
 ```
 
 ### .gitignore
+
 ```
 node_modules/
 dist/
