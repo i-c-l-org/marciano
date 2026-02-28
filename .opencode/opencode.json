@@ -1,0 +1,174 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "bash": "allow",
+    "edit": "allow",
+    "write": "allow",
+    "webfetch": "allow",
+    "grep": "allow",
+    "glob": "allow"
+  },
+  "agent": {
+    "max": {
+      "description": "Modo máximo - Usa modelo mais capaz, todas ferramentas, executa comandos automaticamente",
+      "mode": "primary",
+      "temperature": 0.3,
+      "steps": 100,
+      "prompt": "{file:~/.config/opencode/prompts/max.txt}",
+      "tools": {
+        "write": true,
+        "edit": true,
+        "bash": true,
+        "glob": true,
+        "grep": true,
+        "read": true,
+        "webfetch": true,
+        "websearch": true,
+        "task": true
+      },
+      "permission": {
+        "bash": "allow",
+        "edit": "allow",
+        "write": "allow",
+        "webfetch": "allow"
+      }
+    },
+    "light": {
+      "description": "Modo leve - Respostas rápidas, mínimo de iterações, usa modelo rápido",
+      "mode": "primary",
+      "temperature": 0.1,
+      "steps": 10,
+      "prompt": "{file:~/.config/opencode/prompts/light.txt}",
+      "tools": {
+        "write": true,
+        "edit": true,
+        "bash": true,
+        "glob": true,
+        "grep": true,
+        "read": true
+      },
+      "permission": {
+        "bash": "allow",
+        "edit": "allow",
+        "write": "allow"
+      }
+    },
+    "build": {
+      "description": "Modo build - Desenvolvimento padrão com todas ferramentas",
+      "mode": "primary",
+      "temperature": 0.3,
+      "prompt": "{file:~/.config/opencode/prompts/build.txt}",
+      "tools": {
+        "write": true,
+        "edit": true,
+        "bash": true,
+        "glob": true,
+        "grep": true,
+        "read": true,
+        "webfetch": true,
+        "task": true
+      },
+      "permission": {
+        "bash": "allow",
+        "edit": "allow",
+        "write": "allow"
+      }
+    },
+    "plan": {
+      "description": "Modo plan - Análise e planejamento sem fazer mudanças",
+      "mode": "primary",
+      "temperature": 0.1,
+      "steps": 50,
+      "prompt": "{file:~/.config/opencode/prompts/plan.txt}",
+      "tools": {
+        "write": false,
+        "edit": false,
+        "bash": true,
+        "glob": true,
+        "grep": true,
+        "read": true,
+        "webfetch": true
+      },
+      "permission": {
+        "bash": "allow",
+        "edit": "deny",
+        "write": "deny"
+      }
+    },
+    "review": {
+      "description": "Code review - Análise de código com foco em qualidade e segurança",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "tools": {
+        "write": false,
+        "edit": false,
+        "bash": true,
+        "glob": true,
+        "grep": true,
+        "read": true
+      },
+      "permission": {
+        "bash": "allow",
+        "edit": "deny",
+        "write": "deny"
+      }
+    },
+    "explore": {
+      "description": "Exploração rápida - Encontra arquivos e responde perguntas sobre o codebase",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "tools": {
+        "write": false,
+        "edit": false,
+        "bash": false,
+        "glob": true,
+        "grep": true,
+        "read": true
+      }
+    },
+    "debug": {
+      "description": "Debug - Investigação de bugs com bash e read",
+      "mode": "subagent",
+      "temperature": 0.2,
+      "tools": {
+        "write": false,
+        "edit": false,
+        "bash": true,
+        "glob": true,
+        "grep": true,
+        "read": true
+      },
+      "permission": {
+        "bash": "allow",
+        "edit": "deny",
+        "write": "deny"
+      }
+    },
+    "security-audit": {
+      "description": "Auditoria de segurança - Identifica vulnerabilidades e problemas de segurança",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "tools": {
+        "write": false,
+        "edit": false,
+        "bash": true,
+        "glob": true,
+        "grep": true,
+        "read": true,
+        "webfetch": true
+      },
+      "permission": {
+        "bash": "allow",
+        "edit": "deny",
+        "write": "deny"
+      }
+    }
+  },
+  "skill": {
+    "code-review": "allow",
+    "feature-dev": "allow",
+    "security-check": "allow",
+    "commit-workflow": "allow",
+    "project-setup": "allow"
+  }
+}
