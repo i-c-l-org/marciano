@@ -71,6 +71,10 @@ Use `skill({ name: "nome" })` para carregar:
 | **security-check** | Checklist de vulnerabilidades comuns |
 | **commit-workflow** | Conventional commits e git workflow |
 | **project-setup** | Setup de novos projetos Node/TS |
+| **python-setup** | Setup de novos projetos Python |
+| **python-dev** | Workflow de desenvolvimento Python |
+| **go-setup** | Setup de novos projetos Go |
+| **go-dev** | Workflow de desenvolvimento Go |
 
 ### Permissões
 
@@ -99,9 +103,12 @@ Use `skill({ name: "nome" })` para carregar:
 | -------------------------------------------- | ------------------------------ |
 | [Git Essentials](docs/git-essentials.md)     | Comandos Git do dia a dia      |
 | [NPM Essentials](docs/npm-essentials.md)    | Manutenção de projetos Node.js |
+| [Python Essentials](docs/python-essentials.md) | Comandos e ferramentas Python |
 | [Ollama Setup](docs/ollama-setup.md)        | Modelos de IA local            |
 | [Aider Setup](docs/aider-setup.md)          | Agente de coding via terminal  |
 | [Cloud Models](docs/cloud-models.md)         | Gemini e Groq gratuitos        |
+| [Docker Fundamentals](docs/docker-fundamentals.md) | Containers e Compose     |
+| [GitHub Actions](docs/github-actions.md)     | CI/CD com GitHub Actions       |
 | [Terminal Aliases](docs/terminal-aliases.md) | Atalhos de produtividade      |
 | [DevContainer](docs/devcontainer.md)        | Ambientes isolados            |
 
@@ -119,6 +126,8 @@ npm run diagnosticar   # Análise de qualidade
 npm run formatar       # Formatação automática
 npm run scan          # Scan de licenças
 npm run guardian      # Verificação de segurança
+npm run test          # Executar testes
+npm run security      # Scan de vulnerabilidades
 ```
 
 ## License

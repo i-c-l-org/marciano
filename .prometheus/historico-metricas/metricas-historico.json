@@ -1,0 +1,1578 @@
+[
+  {
+    "analistas": [
+      {
+        "duracaoMs": 3.294546999999966,
+        "global": true,
+        "nome": "detector-estrutura",
+        "ocorrencias": 1
+      },
+      {
+        "duracaoMs": 66.99725199999989,
+        "global": true,
+        "nome": "sugestoes-contextuais",
+        "ocorrencias": 1
+      },
+      {
+        "duracaoMs": 1.0102640000000065,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 2.426875999999993,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 2.9744740000001,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6075559999999314,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5925680000000284,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.14576499999998305,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.7369679999999335,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.900906999999961,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.7759510000000773,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6362450000001445,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.7837869999998475,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6252990000000409,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.4268130000000383,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 2.03665500000011,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.2349010000000362,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 2.1149880000000394,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.3840409999997974,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.128782000000001,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.9024810000000798,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 2.7936889999998584,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 8.261217000000215,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8476590000000215,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5873670000000857,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4396440000000439,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.9438279999999395,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.3757419999999456,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8366719999999077,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5575309999999263,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8514279999999417,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5193030000000363,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.26108399999998255,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.23517899999978908,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2918959999999515,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3926530000001094,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.35756800000012845,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.30851099999995313,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4504930000000513,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.13356699999985722,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.7496529999998529,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4135500000002139,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4478280000000723,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.37612800000010793,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.44075599999996484,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.35060199999998076,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.31475200000022596,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3005039999998189,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3571359999998549,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8148830000000089,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.1029650000000402,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6917359999999917,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5009079999999813,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.34554300000013427,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3007089999998698,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4063009999999849,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3242400000001453,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.301810999999816,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.30142399999999725,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3037059999999201,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.30993599999987964,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.30910499999981766,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.37131700000009005,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.301872000000003,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2106469999998808,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.24986100000000988,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.16222799999991366,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.1589930000000095,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.16218300000014096,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.20892899999989822,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.260244000000057,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2667149999999765,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.13693800000010015,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6467199999999593,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.102482000000009,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.48052700000016557,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4845259999999598,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.9354419999999664,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.45789700000000266,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.9138500000001386,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.615436999999929,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.7015880000001289,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.25568199999997887,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.17357200000014927,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2501870000000963,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5997010000000955,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.0315930000001572,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5188220000000001,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.30959200000006604,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.34203900000011345,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2990980000001855,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.345459000000119,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.41468200000008437,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3369430000000193,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3693069999999352,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4094270000000506,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.38994499999989785,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5508259999999154,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.9256479999999101,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5520040000001245,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5372220000001562,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8626999999999043,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5029899999999543,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3227600000000166,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4194430000000011,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.320133000000169,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.40359399999988455,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.538573999999926,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8039670000000569,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5071800000000621,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8230129999999463,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4914490000001024,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.49730399999998554,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.7530000000001564,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.45230000000015025,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3921669999999722,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5765969999999925,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.43533000000002176,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5407160000002023,
+        "global": false,
+        "nome": "angular-especifico",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 2.7153729999999996,
+        "global": false,
+        "nome": "analista-html",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8152969999998732,
+        "global": false,
+        "nome": "analista-tailwind",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 5.742933999999877,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.15805100000011407,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4280229999999392,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2779729999999745,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.38117799999986346,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5066420000000562,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.08708899999987807,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.10435000000006767,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.24889299999995274,
+        "global": false,
+        "nome": "detector-dependencias",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.21613499999989472,
+        "global": false,
+        "nome": "analista-funcoes-longas",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.25294099999996433,
+        "global": false,
+        "nome": "analista-padroes-uso",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3187439999999242,
+        "global": false,
+        "nome": "analista-comandos-cli",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.21271600000000035,
+        "global": false,
+        "nome": "construcoes-sintaticas",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3200320000000829,
+        "global": false,
+        "nome": "codigo-fragil",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.20448099999998703,
+        "global": false,
+        "nome": "detector-duplicacoes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.04395999999997002,
+        "global": false,
+        "nome": "angular-especifico",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2586900000001151,
+        "global": false,
+        "nome": "arquitetura",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 2.1169969999998557,
+        "global": false,
+        "nome": "performance",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.1870169999999689,
+        "global": false,
+        "nome": "estilo-moderno",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 6.826944999999796,
+        "global": false,
+        "nome": "seguranca",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.9742469999998775,
+        "global": false,
+        "nome": "documentacao",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5359359999999924,
+        "global": false,
+        "nome": "detector-tipos-inseguros",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.9780699999998888,
+        "global": false,
+        "nome": "detector-interfaces-inline",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.25692400000002635,
+        "global": false,
+        "nome": "analista-css-in-js",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.17912000000001171,
+        "global": false,
+        "nome": "analista-react-hooks",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4511690000001636,
+        "global": false,
+        "nome": "analista-react",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.30597800000009556,
+        "global": false,
+        "nome": "analista-tailwind",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.10599600000000464,
+        "global": false,
+        "nome": "documentacao",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.32051099999989674,
+        "global": false,
+        "nome": "qualidade-testes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.47409600000014507,
+        "global": false,
+        "nome": "quick-fixes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.48254799999995157,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5543720000000576,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4384900000000016,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.40493900000001304,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.625880000000052,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.379575000000159,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.410615000000007,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.47070499999995263,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3531860000000506,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4591929999999138,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6946709999999712,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6036519999997836,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.455976999999848,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5464520000000448,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.36050199999999677,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.12029600000005303,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3734269999999924,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5656710000000658,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.34266900000011447,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.06465399999979127,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.27107299999988754,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2847510000001421,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2802409999999327,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3112309999996796,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2792020000001685,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.23050000000012005,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.22706600000037724,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.24039300000004005,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.22289900000032503,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.08238299999993615,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2653990000003432,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.21459699999968507,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2476090000000113,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.29025899999987814,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.28863500000034037,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2836200000001554,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2829860000001645,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2965149999999994,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.28157199999986915,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.35455000000001746,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5000529999997525,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.39171699999997145,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.0670709999999417,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.051178999999592634,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.28449600000021746,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6711600000003273,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.29948800000011033,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.43538699999999153,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.47788500000024214,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.31379500000002736,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.323942999999872,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3697940000001836,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.30332399999997506,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3051700000000892,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3868999999999687,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.2911229999999705,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.7996619999998984,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.5818970000000263,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.37541200000032404,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.34499200000027486,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4643820000001142,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3780299999998533,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3811380000001918,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.6779700000001867,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4072550000000774,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.521795000000111,
+        "global": false,
+        "nome": "analista-comandos-cli",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 2.4554779999998573,
+        "global": false,
+        "nome": "todo-comments",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3631040000000212,
+        "global": false,
+        "nome": "construcoes-sintaticas",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.36378800000011324,
+        "global": false,
+        "nome": "codigo-fragil",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.46482800000012503,
+        "global": false,
+        "nome": "detector-duplicacoes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3467030000001614,
+        "global": false,
+        "nome": "arquitetura",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 3.147581999999602,
+        "global": false,
+        "nome": "performance",
+        "ocorrencias": 2
+      },
+      {
+        "duracaoMs": 0.3631540000001223,
+        "global": false,
+        "nome": "estilo-moderno",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 7.7797709999999825,
+        "global": false,
+        "nome": "seguranca",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.6306940000004033,
+        "global": false,
+        "nome": "documentacao",
+        "ocorrencias": 1
+      },
+      {
+        "duracaoMs": 0.47796299999981784,
+        "global": false,
+        "nome": "detector-tipos-inseguros",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 3.8839570000000094,
+        "global": false,
+        "nome": "detector-interfaces-inline",
+        "ocorrencias": 4
+      },
+      {
+        "duracaoMs": 0.38961399999971036,
+        "global": false,
+        "nome": "analista-css-in-js",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 11.764546999999766,
+        "global": false,
+        "nome": "analista-react-hooks",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 8.81522300000006,
+        "global": false,
+        "nome": "analista-react",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 3.477566999999908,
+        "global": false,
+        "nome": "analista-tailwind",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.0801139999998668,
+        "global": false,
+        "nome": "documentacao",
+        "ocorrencias": 1
+      },
+      {
+        "duracaoMs": 0.8916239999998652,
+        "global": false,
+        "nome": "qualidade-testes",
+        "ocorrencias": 1
+      },
+      {
+        "duracaoMs": 0.0987119999999777,
+        "global": false,
+        "nome": "quick-fixes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 1.5289040000002387,
+        "global": false,
+        "nome": "analista-svg",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.08350199999995311,
+        "global": false,
+        "nome": "quick-fixes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.06374599999981001,
+        "global": false,
+        "nome": "analista-comandos-cli",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.1365179999997963,
+        "global": false,
+        "nome": "todo-comments",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.025376999999934924,
+        "global": false,
+        "nome": "construcoes-sintaticas",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.022303999999621738,
+        "global": false,
+        "nome": "codigo-fragil",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.02174300000024232,
+        "global": false,
+        "nome": "detector-duplicacoes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.02170799999976225,
+        "global": false,
+        "nome": "arquitetura",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.09769699999969816,
+        "global": false,
+        "nome": "performance",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.022419999999783613,
+        "global": false,
+        "nome": "estilo-moderno",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.27199400000017704,
+        "global": false,
+        "nome": "seguranca",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.07480300000042917,
+        "global": false,
+        "nome": "documentacao",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.039509999999609136,
+        "global": false,
+        "nome": "detector-tipos-inseguros",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.05958999999984371,
+        "global": false,
+        "nome": "detector-interfaces-inline",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.02783399999998437,
+        "global": false,
+        "nome": "analista-css-in-js",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.042206999999962136,
+        "global": false,
+        "nome": "analista-react-hooks",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.8978290000000015,
+        "global": false,
+        "nome": "analista-react",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.09230600000000777,
+        "global": false,
+        "nome": "analista-tailwind",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.08291000000008353,
+        "global": false,
+        "nome": "documentacao",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.08614299999999275,
+        "global": false,
+        "nome": "qualidade-testes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.038109999999960564,
+        "global": false,
+        "nome": "quick-fixes",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.4449600000002647,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.3221490000000813,
+        "global": false,
+        "nome": "analista-formatador",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.29561899999998786,
+        "global": false,
+        "nome": "detector-markdown",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.18533900000011272,
+        "global": false,
+        "nome": "analista-svg",
+        "ocorrencias": 0
+      },
+      {
+        "duracaoMs": 0.12174400000003516,
+        "global": false,
+        "nome": "quick-fixes",
+        "ocorrencias": 0
+      }
+    ],
+    "cacheAstHits": 0,
+    "cacheAstMiss": 6,
+    "tempoAnaliseMs": 599,
+    "tempoParsingMs": 94,
+    "timestamp": 1772401816899,
+    "totalArquivos": 97
+  }
+]

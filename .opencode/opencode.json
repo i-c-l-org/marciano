@@ -169,6 +169,10 @@
     "feature-dev": "allow",
     "security-check": "allow",
     "commit-workflow": "allow",
-    "project-setup": "allow"
+    "project-setup": "allow",
+    "python-setup": "allow",
+    "python-dev": "allow",
+    "go-setup": "allow",
+    "go-dev": "allow"
   }
 }
