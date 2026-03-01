@@ -23,7 +23,9 @@
     "notices": "prometheus licencas notices generate",
     "adn": "prometheus licencas disclaimer add",
     "verify": "prometheus licencas disclaimer verify",
-    "guardian": "prometheus guardian",
+    "security": "prometheus guardian",
+    "docker:build": "docker build -t dev-toolkit .",
+    "docker:run": "docker run -p 3000:3000 dev-toolkit",
     "pack": "bash scripts/pack.sh",
     "unpack": "bash scripts/unpack.sh"
   },

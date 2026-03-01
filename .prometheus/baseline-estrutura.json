@@ -1,0 +1,12 @@
+{
+  "arquetipo": "desconhecido",
+  "arquivosRaiz": [
+    ".gitignore",
+    "README.md",
+    "package.json",
+    "prometheus-0.4.0.tgz"
+  ],
+  "confidence": 10,
+  "timestamp": "2026-03-01T21:50:16.286Z",
+  "version": 1
+}
